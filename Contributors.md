@@ -19,3 +19,4 @@
 - [Shreedhar](https://github.com/Shreedhar03)
 - [Rahul](https://github.com/rahulscript)
 - [VaibhaviDixit](https://github.com/vaibhaviDixit)
+- [Shruti Mare](https://github.com/ShrutiMare)
